@@ -87,5 +87,3 @@ The `plot` function allows us to create various types of plots in R. R can autom
 Packages in R contain a collection of R functions, data, and compiled code in a defined form. There are thousands of packages available to extend the functionality of R. Explore and learn from these packages to enhance your R programming skills.
 
 ---
-
-Happy coding with R! If you have any questions or need further assistance, feel free to explore the scripts and examples provided in this repository.
